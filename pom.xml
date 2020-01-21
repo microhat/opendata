@@ -45,6 +45,7 @@
                     <xmlConfigs>
                         <xmlConfig implementation="java.io.File">src/main/resources/dwd.xsdconfig</xmlConfig>
                     </xmlConfigs>
+                    <javaSource>1.8</javaSource>
                 </configuration>
             </plugin>
         </plugins>
