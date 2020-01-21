@@ -1,0 +1,1 @@
+Generates java code from xml schemas for deserialization of [DWD opendata](https://www.dwd.de/DE/leistungen/opendata/opendata.html)
